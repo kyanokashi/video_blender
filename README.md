@@ -1,4 +1,4 @@
-# video_generator
+# video_blender
 
 Video blending python script optimized to blend large batches of video layer through multiply and softlight blendmodes. 
 I created this script to generate a batch of 10k videos composed of three layers for a well known creative agency.
